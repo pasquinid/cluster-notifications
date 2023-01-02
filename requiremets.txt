@@ -1,0 +1,10 @@
+# Function dependencies, for example:
+# package>=version
+google-api-python-client
+slack_sdk
+google_auth
+rsa
+oauth2client<4.0.0
+google-cloud-storage
+pyjwt
+google-cloud-pubsub
